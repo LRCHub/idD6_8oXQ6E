@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Amazing Travel DNA",
+  "base_artist": "AZALEA",
+  "createdAt": "2025-12-05T01:25:00.648107Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Amazing Travel DNA",
+      "artist": "AZALEA",
+      "has_synced": true,
+      "path": "select/01_Amazing_Travel_DNA_AZALEA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Amazing Travel DNA",
+      "artist": "AZALEA(松浦果南(CV.諏訪ななか)、黒澤ダイヤ(CV.小宮有紗)、国木田花丸(CV.高槻かなこ))",
+      "has_synced": true,
+      "path": "select/02_Amazing_Travel_DNA_AZALEA(松浦果南(CV.諏訪ななか)、黒澤ダイヤ(CV.小宮有紗)、国木田花丸(CV.高槻かなこ)).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Amazing Travel DNA REMIX",
+      "artist": "AZALEA",
+      "has_synced": true,
+      "path": "select/03_Amazing_Travel_DNA_REMIX_AZALEA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Amazing Travel DNA(Off Vocal)",
+      "artist": "AZALEA(松浦果南(CV.諏訪ななか)、黒澤ダイヤ(CV.小宮有紗)、国木田花丸(CV.高槻かなこ))",
+      "has_synced": true,
+      "path": "select/04_Amazing_Travel_DNA(Off_Vocal)_AZALEA(松浦果南(CV.諏訪ななか)、黒澤ダイヤ(CV.小宮有紗)、国木田花丸(CV.高槻かなこ)).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Amazing Travel DNA",
+      "artist": "AZALEA",
+      "has_synced": true,
+      "path": "select/05_Amazing_Travel_DNA_AZALEA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Amazing Travel DNA (Off Vocal)",
+      "artist": "AZALEA",
+      "has_synced": true,
+      "path": "select/06_Amazing_Travel_DNA_(Off_Vocal)_AZALEA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Amazing Travel DNA",
+      "artist": "AZALEA",
+      "has_synced": false,
+      "path": "select/pl_01_Amazing_Travel_DNA_AZALEA.txt"
+    }
+  ]
+}
